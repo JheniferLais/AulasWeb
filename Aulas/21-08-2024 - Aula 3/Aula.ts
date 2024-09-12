@@ -2,7 +2,7 @@
 
 //O QUE É UM TIPO? (tipo por isso Typescript)
 
-var numero = 10; //Nesse caso especificar o tipo
+var numero = 10; //Nesse caso não especifica o tipo
 var contador: number = 0; //Nesse caso especificando o tipo(number)
 
 //----------------------------------------------------------------------------------------------------------------------
