@@ -8,7 +8,7 @@ const R: number = 10;
 //Calculo
 (2 * PI * R) //Nesse caso a expressão não é utilizada.
 console.log(2 * PI * R); //Nesse caso a expressão é utilizada no print.
-const comp: number = (2 * PI * R); //Nesse caso a expressão é atribuida a constante 'area'.
+const comp: number = (2 * PI * R); //Nesse caso a expressão é atribuida a constante 'comp'.
 
 // Programa para calcular a área do círculo.
 function calcularAreaCirculo(R: number): number {
