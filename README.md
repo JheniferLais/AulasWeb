@@ -13,7 +13,7 @@ Este repositório contém todos os materiais e códigos referentes às aulas do 
 - **`/recursos`**: Arquivos adicionais e recursos recomendados pelo professor.
 
 ---
-### 07-08-2024 - Aula 01: Typescript
+### 14-08-2024 - Aula 02: Typescript
 - **Conteúdo**:
   - Ambiente Typescript
   - Comandos Básicos
