@@ -1,11 +1,5 @@
 # Repositório de Aulas de Web
 
-Este repositório contém todos os materiais e códigos referentes às aulas do curso de Desenvolvimento Web.
-
-> **Descrição**
->
-> Este repositório tem como objetivo centralizar todos os conteúdos e exercícios fornecidos durante as aulas, facilitando o acesso e a organização dos materiais. Aqui você encontrará exemplos de código, projetos e qualquer outro recurso relacionado às aulas.
-
 ## Estrutura do Repositório
 
 - **`/aulas`**: Diretório com exemplos e exercícios das aulas.
