@@ -33,3 +33,14 @@
     - Instalação do Node.js 
     - Primeiros passos Node.js
     - Servidor HTTP
+---
+### 18-09-2024 - Aula 06: Servidor HTTP
+- **Conteúdo**:
+    - Servidor HTTP
+    - Serviços
+---
+### 25-09-2024 - Aula 06: Node.js
+- **Conteúdo**:
+    - Servidor HTTP
+    - Serviços
+    - Express
