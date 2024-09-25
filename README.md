@@ -39,7 +39,7 @@
     - Servidor HTTP
     - Serviços
 ---
-### 25-09-2024 - Aula 06: Node.js
+### 25-09-2024 - Aula 07: Servidor HTTP
 - **Conteúdo**:
     - Servidor HTTP
     - Serviços
